@@ -1,0 +1,4 @@
+const WHITELIST_CONTRACT_ADDRESS = "0x585635877cA5eF92b654B55B2dD2572629aDf14F";
+const METADATA_URL = "https://vercel.com/ebbieaden/sep-whitelist/DTEHKhJjnSeQMjYKr4gDskMju7qR";
+
+module.exports = { WHITELIST_CONTRACT_ADDRESS, METADATA_URL };
